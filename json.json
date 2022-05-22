@@ -1,0 +1,14 @@
+{
+	"friendslist": {
+		"friend": {
+			"friendone": "first_name",
+			"friendtwo": "Second_name",
+			"friendthree": {
+				"friendswith": "intermediate",
+				"_text": "Third_name"
+			},
+			"friendfour": "FourName",
+			"bestfriends": "best"
+		}
+	}
+}

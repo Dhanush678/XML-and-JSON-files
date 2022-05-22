@@ -1,0 +1,22 @@
+<friendslist>
+<friend>
+<friendone>first_name
+    </friendone>
+    <friendtwo>
+            Second_name
+        </friendtwo>
+            <friendthree>
+            <friendswith>
+                    intermediate
+            </friendswith>
+            Third_name
+        </friendthree>
+        <friendfour>
+            FourName
+        </friendfour>
+            <bestfriends>
+                best
+                </bestfriends>
+
+</friend>
+    </friendslist>
